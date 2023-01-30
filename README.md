@@ -21,15 +21,27 @@
 
 2. In/Out, Buffer device is on Preferences > Audio
 
+3. Key Command are the Hot keys
+
+4. Use [EXS24(Sampler)] for adding a sample track
+
+## MUSIC DICTIONARY
+
+1. **Transpose**: changing the pitch of the notes while keeping the relative intervals between them the same.
+
 ## HOTKEYS
 
 (⌘**?**) is open a new window
 
+### One Key
+
 hold ⌘ + edit/add midi notes
 
-Y Library
+C ...........Turn on/off looping (yellow bar)
 
-I Inspector
+Y ...........Library
+
+I ...........Inspector
 
 B  (⌘**3**) ...........Smart Control
 
@@ -43,9 +55,13 @@ V ...........Show/hide plugins window
 
 Z ...........Max out the track thickness
 
+; ........... BRing the audio clip to the cursor
+
 [ENTER] ...........Go to the beginning
 
-⌘ +[flechas]  .......der/iz para zoom timeline
+### Multi Key
+
+⌘ + [flechas]  .......der/iz para zoom timeline
 
 ARR/abj ...........para zoom grosor timeline
 
@@ -53,13 +69,13 @@ ARR/abj ...........para zoom grosor timeline
 
 ⌘ + / ............Quick Help
 
-⌘ + K ............keyboard keys
+⌘ + K ............show keyboard keys
 
 ⌘ + R ............Repeat last action
 
 ⌘ + T ............Split at playhead
 
-**^** + ⌘ + T ......Split by locators
+⌘ + **+/-**............Make the waveform bigger or smaller
 
 ⌘ + J ..............Join
 
@@ -67,11 +83,13 @@ ARR/abj ...........para zoom grosor timeline
 
 ⌘ + del ...... Delete TRACK
 
+**^** + ⌘ + T ......Split by locators
+
 < > ............ move playhead 1 bar
 
 Shift + <> ......move playhead 8 bar
 
-ctr+M ............mute clip selected
+ctr + M ............mute clip selected
 
 **^** + ⌘ + Space ......  Tap tempo (need to be assigned)
 
@@ -81,4 +99,4 @@ alt+click ............en el costado de para time stretch
 
 1. Mantener -18db como máximo
 
-1. When record use a lower buffer size (ex:32), but in mixin use the higher one (ex: 1024)
+1. When record use a lower buffer size (ex:128), but in mixin use the higher one (ex: 1024)
