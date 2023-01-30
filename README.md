@@ -23,7 +23,7 @@
 
 ## HOTKEYS
 
-\_\_\_(⌘**?**) is open a new window
+(⌘**?**) is open a new window
 
 hold ⌘ + edit/add midi notes
 
@@ -31,51 +31,51 @@ Y Library
 
 I Inspector
 
-B  (⌘**3**) Smart Control
+B  (⌘**3**) ...........Smart Control
 
-X  (⌘**2**) Mixer
+X  (⌘**2**) ...........Mixer
 
-E  (⌘**4**) Editor
+E  (⌘**4**) ...........Editor
 
-A Automation
+A ...........Automation
 
-V Show/hide plugins window
+V ...........Show/hide plugins window
 
-Z Max out the track thickness
+Z ...........Max out the track thickness
 
-[ENTER] Go to the beginning
+[ENTER] ...........Go to the beginning
 
-⌘ +[flechas]  der/iz para zoom timeline
+⌘ +[flechas]  .......der/iz para zoom timeline
 
-ARR/abj para zoom grosor timeline
+ARR/abj ...........para zoom grosor timeline
 
 ⌘ pulsado second function of the cursor
 
-⌘ \*\*\*\*+ / Quick Help
+⌘ + / ............Quick Help
 
-⌘ \*\*\*\*+ K keyboard keys
+⌘ + K ............keyboard keys
 
-⌘ \*\*\*\*+ R Repeat last action
+⌘ + R ............Repeat last action
 
-⌘ \*\*\*\*+ T Split at playhead
+⌘ + T ............Split at playhead
 
-**^** + ⌘ \*\*\*\*+ T Split by locators
+**^** + ⌘ + T ......Split by locators
 
-⌘ \*\*\*\*+ J Join
+⌘ + J ..............Join
 
-⌘ \*\*\*\*+ Shift + D   join tracks into a folder
+⌘ + Shift + D  ...Join tracks into a folder
 
-⌘ \*\*\*\*+ del Delete TRACK
+⌘ + del ...... Delete TRACK
 
-< >        move playhead 1 bar
+< > ............ move playhead 1 bar
 
-Shift + <> move playhead 8 bar
+Shift + <> ......move playhead 8 bar
 
-ctr+M mute clip selected
+ctr+M ............mute clip selected
 
-**^** + ⌘ **+**space       Tap tempo (need to be assigned)
+**^** + ⌘ + Space ......  Tap tempo (need to be assigned)
 
-alt+click en el costado de para time stretch
+alt+click ............en el costado de para time stretch
 
 ## NOTES
 
